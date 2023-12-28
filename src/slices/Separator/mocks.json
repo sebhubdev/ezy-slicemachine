@@ -1,0 +1,33 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"with_line": {
+				"__TYPE__": "BooleanContent",
+				"value": false
+			},
+			"desktop_height": {
+				"__TYPE__": "FieldContent",
+				"value": "10",
+				"type": "Select"
+			},
+			"line_position": {
+				"__TYPE__": "FieldContent",
+				"value": "top",
+				"type": "Select"
+			},
+			"line_width": {
+				"__TYPE__": "FieldContent",
+				"value": "small",
+				"type": "Select"
+			},
+			"mobile_height": {
+				"__TYPE__": "FieldContent",
+				"value": "30",
+				"type": "Select"
+			}
+		},
+		"items": []
+	}
+]
